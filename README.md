@@ -4,6 +4,6 @@
      Java, JSP/servlet, J2EE, hibernate,spring,
      Bootstrap, HTML, CSS, SpringMVC, Rhcsa,Flutter. 
 - 🌱 I’m currently learning springboot and Angularjs
-- 📫 How to reach me ...Click on below given link:-
+- 📫 How to reach me ...Click on given link:-
 https://www.linkedin.com/in/yash-pandey-4a35b31b4/
 
