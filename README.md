@@ -3,7 +3,7 @@
 - 💫 My skill's are:- 
      Java, JSP/servlet, J2EE, hibernate,spring,
      Bootstrap, HTML, CSS, SpringMVC, Rhcsa [Certified],Flutter. 
-- 🌱 I’m currently working on springboot and Angularjs
+- 🌱 I’m currently working on springboot and Angular
 - 📫 How to reach me ...Click Here:-
 https://www.linkedin.com/in/yash-pandey-4a35b31b4/
 - 😍 My portfolio website:-
